@@ -1,0 +1,4 @@
+Yes~1.0
+Male~1.0
+No~0.0
+NotMale~0.0
